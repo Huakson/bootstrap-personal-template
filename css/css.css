@@ -4,12 +4,11 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
  */
 body {
-  padding-top: 56px;
+  padding-top: 10px;
 }
 
 .title {
   font-family: 'Cabin', sans-serif;
-  color: #008C9E;
 }
 
 .btn-insta{
