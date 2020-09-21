@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/templates/small-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.title {
+  font-family: 'Cabin', sans-serif;
+  color: #008C9E;
+}
+
+.btn-insta{
+  background-color: #C13584;
+  color: #FFF;
+}
+
+.btn-face{
+  background-color: #3f62af;
+  color: #FFF;
+}
+
+.btn-twitter{
+  background-color:  #1c8cd1;
+  color: #FFF;
+}
+
