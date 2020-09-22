@@ -7,6 +7,10 @@ body {
   padding-top: 10px;
 }
 
+.font-size{
+  font-size: 19px;
+}
+
 .title {
   font-family: 'Cabin', sans-serif;
 }
