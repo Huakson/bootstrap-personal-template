@@ -12,12 +12,16 @@ body {
   .size{
     font-size: 24px;
   }
+
+  h3{
+    font-size: 1.60rem;
+  }
   
 }
 
 
 .font-size{
-  font-size: 22px;
+  font-size: 25px;
 }
 
 .title {
