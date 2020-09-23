@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200922T180000Z
+DTEND:20200922T190000Z
+DTSTAMP:20200922T144241Z
+ORGANIZER;CN=Luis Antonio Dias de Sa Junior:mailto:luisdj@cpqd.com.br
+UID:2jaadmuot59hp4plojbupdp6ni@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Huakson Huilnner Santos Lima;X-NUM-GUESTS=0:mailto:huakson@cpqd.com
+ .br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Gabriel Eduardo De Bessa Maciel;X-NUM-GUESTS=0:mailto:gbessa@cpqd.c
+ om.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Euripedes Antero Vieira;X-NUM-GUESTS=0:mailto:evieira@cpqd.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Luis Antonio Dias de Sa Junior;X-NUM-GUESTS=0:mailto:luisdj@cpqd.com.br
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Joel De Paula Monteiro;X-NUM-GUESTS=0:mailto:jmonteiro@cpqd.com.br
+X-MICROSOFT-CDO-OWNERAPPTID:293308914
+CREATED:20200922T144239Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nNão edite esta seção da descrição.\n\nVisualize o
+  seu evento em https://www.google.com/calendar/event?action=VIEW&eid=MmphYW
+ RtdW90NTlocDRwbG9qYnVwZHA2bmkgaHVha3NvbkBjcHFkLmNvbS5icg&tok=MTgjbHVpc2RqQG
+ NwcWQuY29tLmJyNzA5NTRkOWY0NDgyZDU2NTI0MTVlYzc2ZDNhYTAxM2I0YjdkMTVmMQ&ctz=Am
+ erica%2FSao_Paulo&hl=pt_BR&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200922T144239Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Alinhamento IFG
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
